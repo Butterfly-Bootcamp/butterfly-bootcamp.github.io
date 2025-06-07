@@ -28,5 +28,5 @@ This website aims to:
 
 ## Author
 
-**Johnny Moya**
+**Johnny Moya**  
 Co-founder, ATX Butterfly Bootcamp
